@@ -88,7 +88,7 @@ function App() {
             Video Creator & Business Enthusiast
           </div>
           <p style={{ padding: "5px", height: "fit-content" }}>
-            Welcome to my portfolio! I'm [Your Name], a dynamic professional who
+            Welcome to my portfolio! I'm Mohd Azam, a dynamic professional who
             wears two hats: a seasoned businessperson and a passionate video
             creator. With a diverse skill set that combines strategic acumen
             with creative storytelling, I bring a unique perspective to every
